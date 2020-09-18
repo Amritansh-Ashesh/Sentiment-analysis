@@ -27,7 +27,7 @@ When you read the sentences above, your brain draws on your accumulated knowledg
 So, why are we using baseball games to explain how human brains do sentiment analysis? The answer is simple: **computer sentiment analysis works (almost) the same way.**
 
 The Output would be in the following format:
-'''
+```
 Relevant Reddit posts: 241
 Relevant Tweets: 71
 Positive tweets percentage: 32.051 %
@@ -37,7 +37,7 @@ Neutral tweets percentage: 31.731 %
 *10 Positive Posts
 10 Negative Posts
 10 Neutral Posts*
-'''
+```
 A beautiful Pie Chart visualizing the result
 ![Pie Chart](pie_chart.jpg)
 
