@@ -38,7 +38,7 @@ Neutral tweets percentage: 31.731 %
 10 Negative Posts
 10 Neutral Posts*
 ```
-A beautiful Pie Chart visualizing the result
+
 ![Pie Chart](pie_chart.jpg)
 
 Source for Readme: https://www.lexalytics.com/technology/sentiment-analysis
