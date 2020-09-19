@@ -163,9 +163,9 @@ def main():
     total_items = len(tweets)+len(reddit)
     print(f'Relevant Reddit posts: {len(reddit)}')
     print(f'Relevant Tweets: {len(tweets)}')
-    print(f'Positive tweets percentage: {(100 * len(positive_senti) / total_items):0.3f} %')
-    print(f'Negative tweets percentage: {(100 * len(negative_senti) / total_items):0.3f} %')
-    print(f'Neutral tweets percentage: {(100 * len(neutral_senti) / total_items):0.3f} %')
+    print(f'Positive Sentiments percentage: {(100 * len(positive_senti) / total_items):0.3f} %')
+    print(f'Negative Sentiments percentage: {(100 * len(negative_senti) / total_items):0.3f} %')
+    print(f'Neutral Sentiments percentage: {(100 * len(neutral_senti) / total_items):0.3f} %')
 
 
     #Plotting Pie Chart Using Matplotlib
