@@ -30,9 +30,9 @@ The Output would be in the following format:
 ```
 Relevant Reddit posts: 241
 Relevant Tweets: 71
-Positive tweets percentage: 32.051 %
-Negative tweets percentage: 24.679 %
-Neutral tweets percentage: 31.731 %
+Positive Sentiments percentage: 32.051 %
+Negative Sentiments percentage: 24.679 %
+Neutral Sentiments percentage: 31.731 %
 
 *10 Positive Posts
 10 Negative Posts
